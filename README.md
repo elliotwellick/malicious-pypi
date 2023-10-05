@@ -23,7 +23,7 @@ One particularly insidious feature of this malware is its constant monitoring of
 
 To check if any of the listed packages are installed on your system, you can use the provided Python script. Follow these steps:
 
-1. Download the script [here](vuln_check.py).
+1. Download the script [here](https://raw.githubusercontent.com/elliotwellick/malicious-pypi/main/vuln_check.py).
 
 2. Run the script using Python:
 
